@@ -6,7 +6,8 @@
 
 This is a fully fledged social network. Includes walkthrough scenes, a comprehensive authentication system, a fully modelled social network
 with news feeds, posts, user profiles, notifications, and search. The app lets the user post videos and photos, apply filters, and share them
-with their friends. There is a built in comment / like system including user mentions and hashtags.
+with their friends. There is a built in comment / like system including user mentions and hashtags. In addition, users can tag
+their location using Google Maps API.
 
 ## Features
 
