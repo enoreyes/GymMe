@@ -26,8 +26,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         UITabBar.appearance().tintColor = .black
         
         FirebaseApp.configure()
-        GMSPlacesClient.provideAPIKey("AIzaSyBEoKAMTKHrERtYt0eAGmYukWcJU-653U4")
-        GMSServices.provideAPIKey("AIzaSyBEoKAMTKHrERtYt0eAGmYukWcJU-653U4")
+        GMSPlacesClient.provideAPIKey("")
+        GMSServices.provideAPIKey("")
         //registerForPushNotifications()
         
         return true
